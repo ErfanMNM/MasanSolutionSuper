@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClassLibraryMT/ClassLibraryMT.csproj" />
+  <Project Path="MasanCZCodeBackend/MasanCZCodeBackend.csproj" />
+</Solution>

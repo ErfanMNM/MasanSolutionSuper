@@ -48,3 +48,4 @@ Desktop.ini
 !.env.example
 *.pfx
 *.publishsettings
+/Plans
